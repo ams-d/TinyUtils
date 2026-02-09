@@ -11,6 +11,17 @@ Perfect for:
 - Quick prototyping
 - Learning JavaScript best practices
 
+
+📁 项目结构
+```
+TinyUtils/
+├── README.md
+├── utils.js
+├── demo.js
+├── .gitignore
+└── LICENSE
+```
+
 ## 📦 Installation
 
 ### Option 1: Use via CDN (for browsers)
